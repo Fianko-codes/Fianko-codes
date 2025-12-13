@@ -23,7 +23,7 @@ More things will appear. Probably.
 ---
 
 ## Tools
-`C/C++` · `Python` · `LaTeX` · `Linux` · `Vim (used once, survived)` · `Git` · `PHP` · `SQL` · `HTML/CSS` · `JS`
+`C/C++` · `Python` · `LaTeX` · `Linux` · `Vim (used once, survived)` · `Git` · `PHP` · `SQL` · `HTML/CSS` · `JS`  
 Also: pen, paper, coffee, and way too many thoughts.
 
 ---
