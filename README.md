@@ -1,40 +1,41 @@
-# 🌌 Welcome, wanderer...  
+# Welcome, wanderer.
 
-You’ve stumbled upon the digital cave of **Anubhav Prasai, aka Fianko** – part mathematician, part coder. Bornt in: Nepal.
-Never be shy to hit me up in my dms
+You’ve stumbled into the digital cave of **Anubhav Prasai (Fianko)** — full-time overthinker.  
+Born in Nepal. Still here. For now.
 
----
-
-## ✨ So, who am I?  
-- 🧮 A math modeler
-- 🖋️ A **CS** and **Mathematics** enthusiast  
-- 🎲 Someone who thinks simulations are just video games for grown-ups  
-- 🏋️ Currently on a full **glow-up quest** – body, brain, vibes. Will probably be in this quest for the entire life
+DMs are open.
 
 ---
 
-## ⚡ What you’ll find here  
-- 🗂️ **Algorithm training grounds** – CSES solutions neatly organized  
-- 🌀 Occasional chaos when I forget what sleep is
-
-(Probably something more will come aswell)
----
-
-## 🛠️ Tools
-`C++` · `Python` · `LaTeX` · `Vim (Used for one day)` · `Linux`  
-(also: pen, paper, coffee, and way too many thoughts)  
+## So who am I?  
+- A CS + Mathematics enthusiast    
+- On a permanent glow-up quest: body, brain, vibes  
+  (there is no endgame) - gotta be pretty one day fr
 
 ---
 
-## 📜 Current lore arc  
-Training like a protagonist (I might be one, we never know):  
-- Grinding algorithms like XP farming
-- Planning the eventual invasion of whichever abroad university
+## What you’ll find here
+- Sufferings
+- Occasional chaos when sleep loses the battle  
+
+More things will appear. Probably.
 
 ---
 
-## 🌱 Fun facts  
-- Once biked through monsoon rain just to make it to class, yea and I still do it  
-- Considers debugging a form of meditation (I lied) 
-- Believes a math proof can be as beautiful as poetry  
-- Slowly transforming from “under construction”
+## Tools
+C++ · Python · LaTeX · Linux · Vim (used once, survived)  
+Also: pen, paper, coffee, and way too many thoughts.
+
+---
+
+## Current lore arc
+Training like a protagonist (jury’s still out):
+- Grinding algorithms like those videos in our watch later
+- Planning the eventual escape to some abroad university
+
+---
+
+## Fun facts
+- I have biked through monsoon rain just to make it to class hehe.
+- Debugging is meditation for me (Yea, I lied)
+
