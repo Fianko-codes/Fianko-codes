@@ -24,7 +24,7 @@ More things will appear. Probably.
 
 ## Tools
 `C/C++` · `Python` · `LaTeX` · `Linux` · `Vim (used once, survived)` · `Git` · `PHP` · `SQL` · `HTML/CSS` · `JS`  
-Also: pen, paper, coffee, and way too many thoughts.
+Also: pen, paper, coffee, and some trash stuffs/thoughts.
 
 ---
 
