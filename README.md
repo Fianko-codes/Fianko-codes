@@ -1,6 +1,6 @@
 # Welcome, wanderer.
 
-You’ve stumbled into the digital cave of **Anubhav Prasai (Fianko)** — full-time overthinker.  
+You’ve stumbled into the digital cave of **Fianko**, a full-time overthinker.  
 Born in Nepal. Still here. For now.
 
 DMs are open.
